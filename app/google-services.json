@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925520125831",
+    "firebase_url": "https://ostrovsergey-dd9ed.firebaseio.com",
+    "project_id": "ostrovsergey-dd9ed",
+    "storage_bucket": "ostrovsergey-dd9ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925520125831:android:60975be839075acc",
+        "android_client_info": {
+          "package_name": "com.example.user.myfirstkotlinappostrov1021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925520125831-227anmot4lve3cg2kthaivdi6i9kk8m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myfirstkotlinappostrov1021",
+            "certificate_hash": "23b29e6f9b29f0301b2594795969532343b427de"
+          }
+        },
+        {
+          "client_id": "925520125831-t9l9733pinqq29uqr8j4utc9153p5qfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFKrkWLkMrk9Zp59ILuHLVKNUVmFkDuxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925520125831-t9l9733pinqq29uqr8j4utc9153p5qfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
